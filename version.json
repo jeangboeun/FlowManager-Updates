@@ -2,4 +2,17 @@
   "version": "1.0.1",
   "download_url": "https://www.dropbox.com/scl/fi/p7fzcfjezsszp2kdyl54b/FlowManager_Setup_v1.0.1.exe?rlkey=wf1ubrnvnmd2nz1ojq3f8z116&st=vlbw7pwe&dl=1",
   "release_notes": "កំណែថ្មីដំបូងបំផុត"
+  },
+  "chrome_versions": [
+    {
+      "version": "151",
+      "size": "196.87MB",
+      "url": "https://www.dropbox.com/scl/fi/qcuut0jl5kmxg0dm5c6s7/ChromePortable_V151.zip?rlkey=2208f034ofowoa6x052su3feb&st=s9n33dge&dl=1"
+    },
+    {
+      "version": "109",
+      "size": "129.69MB",
+      "url": "https://www.dropbox.com/scl/fi/1z232ine0o2az4nvd9b6t/ChromePortable_V109.zip?rlkey=o6hsk8geb98gf0lyqyf7jocrm&st=ufbl090p&dl=1"
+    }
+  ]
 }
